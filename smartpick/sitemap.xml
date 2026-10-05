@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://example.com/</loc>
+  </url>
+  <url>
+    <loc>https://example.com/index.html</loc>
+  </url>
+  <url>
+    <loc>https://example.com/about.html</loc>
+  </url>
+  <url>
+    <loc>https://example.com/faq.html</loc>
+  </url>
+  <url>
+    <loc>https://example.com/shipping-returns.html</loc>
+  </url>
+  <url>
+    <loc>https://example.com/contact.html</loc>
+  </url>
+  <url>
+    <loc>https://example.com/car-seat-gap-organizer.html</loc>
+  </url>
+  <url>
+    <loc>https://example.com/seat-back-organizer.html</loc>
+  </url>
+  <url>
+    <loc>https://example.com/trunk-organizer.html</loc>
+  </url>
+</urlset>
